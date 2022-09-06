@@ -1,1 +1,1 @@
-find readme
+count readme
