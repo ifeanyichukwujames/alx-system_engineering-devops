@@ -1,1 +1,1 @@
-hide word readme
+letter alone readme
