@@ -1,1 +1,1 @@
-alias readme
+hello you readme
