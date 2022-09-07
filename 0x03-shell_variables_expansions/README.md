@@ -1,1 +1,1 @@
-create global var readme
+true knowledge readme
