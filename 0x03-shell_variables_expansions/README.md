@@ -1,1 +1,1 @@
-create local v readme
+create global var readme
