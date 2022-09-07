@@ -1,1 +1,1 @@
-global varibles readme
+local varibles readme
