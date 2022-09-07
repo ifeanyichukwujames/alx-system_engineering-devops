@@ -1,1 +1,1 @@
-print float readme
+decimal readme
